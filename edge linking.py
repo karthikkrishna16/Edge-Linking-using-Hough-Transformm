@@ -1,6 +1,6 @@
 # In[ ]:## Read image and convert it to grayscale image
-## Developed by : 
-## Reg no : 
+## Developed by : KARTHIK KRISHNA TH
+## Reg no : 212223240067
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
